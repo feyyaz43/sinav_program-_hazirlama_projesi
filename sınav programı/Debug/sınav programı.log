@@ -1,0 +1,39 @@
+﻿Build started 28.09.2013 01:48:56.
+     1>Project "d:\Users\ramazan\Documents\okul\2.sınıf\pro lab-2\sınav programı\sınav programı\sınav programı.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\sınav programı.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         d:\program download\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_UNICODE" /D "UNICODE" /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\sınav programı.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         d:\program download\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_UNICODE" /D "UNICODE" /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\sınav programı.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "AssemblyInfo.cpp" program.cpp "sınav programı.cpp" /clr:nostdlib 
+         AssemblyInfo.cpp
+         program.cpp
+         sınav programı.cpp
+     1>d:\users\ramazan\documents\okul\2.sınıf\pro lab-2\sınav programı\sınav programı\Form1.h(218): warning C4101: 'i' : unreferenced local variable
+         Generating Code...
+         d:\program download\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_UNICODE" /D "UNICODE" /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "d:\Users\ramazan\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D "_UNICODE" /D "UNICODE" /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         d:\program download\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Users\ramazan\Documents\okul\2.sınıf\pro lab-2\sınav programı\Debug\sınav programı.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:"Debug\sınavprogramı.Form1.resources" /ASSEMBLYRESOURCE:"Debug\sınavprogramı.program.resources" /MANIFEST /ManifestFile:"Debug\sınav programı.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\Users\ramazan\Documents\okul\2.sınıf\pro lab-2\sınav programı\Debug\sınav programı.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         "Debug\AssemblyInfo.obj"
+         Debug\program.obj
+         Debug\stdafx.obj
+         "Debug\sınav programı.obj"
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         sınav programı.vcxproj -> d:\Users\ramazan\Documents\okul\2.sınıf\pro lab-2\sınav programı\Debug\sınav programı.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\Users\ramazan\Documents\okul\2.sınıf\pro lab-2\sınav programı\Debug\sınav programı.exe;#1" /manifest "Debug\sınav programı.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\sınav programı.unsuccessfulbuild".
+         Touching "Debug\sınav programı.lastbuildstate".
+     1>Done Building Project "d:\Users\ramazan\Documents\okul\2.sınıf\pro lab-2\sınav programı\sınav programı\sınav programı.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.04
